@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="55dip"
+    android:minHeight="?android:attr/listPreferredItemHeight"
+    android:orientation="horizontal">
+
+    <TextView
+        android:id="@+id/tv_title"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="5dip"
+        android:ellipsize="end"
+        android:gravity="center_vertical|left"
+        android:marqueeRepeatLimit="marquee_forever"
+        android:paddingRight="8dip"
+        android:singleLine="true"
+        android:textSize="16sp" />
+</LinearLayout>

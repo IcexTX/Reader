@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="primary" type="color">#444444</item>
+    <item name="primary_dark" type="color">#222222</item>
+    <color name="afc_border_line_dark">#33B5E5</color>
+
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="dark_gray">#333333</color>
+    <color name="light_gray">#AFFFFFFF</color>
+    <color name="gray_navigation_bar">#dedddd</color>
+    <color name="menu_font">#F7F7F7</color>
+    <color name="menu_font_night">#1F1F1F</color>
+    <color name="menu_list_night">#1D1D1D</color>
+    <color name="menu_number_font">#ADADAD</color>
+    <color name="menu_content_font">#000000</color>
+    <color name="menu_content_font_night">#6A6A6A</color>
+    <color name="menu_content_color">#06B891</color>
+    <color name="menu_content_line">#dedede</color>
+    <color name="menu_list_item_night">#FF2E2E2E</color>
+    <color name="menu_content_title">#505050</color>
+    <color name="menu_content_night_title">#565656</color>
+
+    <color name="black_text_normal">#474747</color>
+    <color name="orange_text_select">#F4942D</color>
+    <color name="gray_divider">#D2D2D2</color>
+    <color name="gray_keyword_bg">#696969</color>
+    <!--页面背景的颜色-->
+    <color name="colorPageBg">#f2f4f5</color>
+    <!--item的5.0一下版本选择器颜色-->
+    <color name="itemLowBackground">#d9d9d9</color>
+    <!--水波纹或5.0以下选择器颜色-->
+    <color name="tabBackground">#777D7D7D</color>
+    <!--item的水波纹颜色-->
+    <color name="itemBackground">#DD7D7D7D</color>
+
+</resources>

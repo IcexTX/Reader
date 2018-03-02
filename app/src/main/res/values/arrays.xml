@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:locale="zh">
+    <string-array name="book_menu">
+        <item>目录</item>
+        <item>书签</item>
+        <item>笔记</item>
+    </string-array>
+</resources>
